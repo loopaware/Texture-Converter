@@ -1,0 +1,8 @@
+pass 2 imagefiles of any popular imagefile type into the texconv executable.
+
+eg. texconv.exe diff.png glow.png
+or
+use windows explorer and select&drag 2 imagefiles onto the executable, (in order of Diffuse, Glow)
+
+Fredrick Johansson
+bladdidoo@gmail.com

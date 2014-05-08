@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1391013238 source:c:\projekt\textureconverter\texconv\main.cpp
+	<iostream>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+	<glm/glm.hpp>
+	"main.h"
+
+1390999932 c:\projekt\textureconverter\texconv\main.h
+	<IL/il.h>
+
